@@ -1,5 +1,5 @@
-# Mozilla l10n-central - Spanish (es-ES) localization
+# Mozilla l10n-central - Portugese (Brazil) (pt-BR) localization
 
-**The actual mirrored content is here in the [_default_ branch](https://github.com/censorship-no/l10n-mozilla-central-es-ES/tree/default).**
+**The actual mirrored content is here in the [_default_ branch](https://github.com/censorship-no/l10n-mozilla-central-pt-BR/tree/default).**
 
-[![Update mirror](https://github.com/censorship-no/l10n-mozilla-central-es-ES/actions/workflows/update-mirror.yml/badge.svg?branch=automation)](https://github.com/censorship-no/l10n-mozilla-central-es-ES/actions/workflows/update-mirror.yml)
+[![Update mirror](https://github.com/censorship-no/l10n-mozilla-central-pt-BR/actions/workflows/update-mirror.yml/badge.svg?branch=automation)](https://github.com/censorship-no/l10n-mozilla-central-pt-BR/actions/workflows/update-mirror.yml)
